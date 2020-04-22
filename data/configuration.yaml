@@ -1,0 +1,14 @@
+mqtt:
+  base_topic: knx2mqtt
+  server: 'mqtt://localhost'
+knx:
+  ip_address: 192.168.1.145
+  port: 3671
+advanced:
+  log_output:
+    - console
+devices: 
+  abcd: 
+    individual_address: '1.1.1'
+    dpt: 'DPT9.004'
+    ga: '1/0/0'
