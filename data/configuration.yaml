@@ -7,8 +7,8 @@ knx:
 advanced:
   log_output:
     - console
-devices: 
-  abcd: 
-    individual_address: '1.1.1'
-    dpt: 'DPT9.004'
-    ga: '1/0/0'
+devices:
+  xfwog:
+    individual_address: 1.1.1
+    ga: 1/0/0
+    dpt: DPT9.004
