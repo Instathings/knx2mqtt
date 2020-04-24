@@ -2,13 +2,13 @@ mqtt:
   base_topic: knx2mqtt
   server: 'mqtt://localhost'
 knx:
-  ip_address: 192.168.1.145
+  ip_address: 127.0.0.1
   port: 3671
 advanced:
   log_output:
     - console
 devices:
-  xfwog:
+  VrIULK2vQ:
     individual_address: 1.1.1
-    ga: 1/0/0
+    group_address: 1/0/0
     dpt: DPT9.004
