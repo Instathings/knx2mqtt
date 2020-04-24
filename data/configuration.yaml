@@ -7,8 +7,3 @@ knx:
 advanced:
   log_output:
     - console
-devices:
-  VrIULK2vQ:
-    individual_address: 1.1.1
-    group_address: 1/0/0
-    dpt: DPT9.004
