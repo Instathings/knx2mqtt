@@ -29,7 +29,7 @@ advanced:
 Payload:
 - id: a unique string for you
 - individual_address: the configured Individual Address of your KNX device,
-- ga: the Group Address your device send data to
+- group_address: the Group Address your device send data to
 - dpt: the Data Point Type of your device. For the supported DPTs please refer to [knx.js](https://bitbucket.org/ekarak/knx.js/src/master/README-datapoints.md)
 
 ```
