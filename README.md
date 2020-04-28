@@ -36,7 +36,7 @@ Payload:
 {
     id: 'uniqueStringId',
     individual_address: '1.1.1',
-    ga: '1/0/0',
+    group_address: '1/0/0',
     dpt: 'DPT9.004',
 }
 ```
