@@ -9,4 +9,7 @@ if (!semver.satisfies(process.version, version)) {
 const Controller = require('./lib/controller');
 
 const controller = new Controller();
+setInterval(() => {
+  console.log('CIAO');
+}, 1000);
 controller.start();
