@@ -30,7 +30,7 @@
     "git-last-commit": "^1.0.0",
     "js-yaml": "^3.13.1",
     "knx": "^2.3.7",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "mkdir-recursive": "^0.4.0",
     "moment": "^2.24.0",
     "mqtt": "^3.0.0",
