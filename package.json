@@ -32,7 +32,7 @@
     "knx": "^2.3.7",
     "lodash": "^4.17.15",
     "mkdir-recursive": "^0.4.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "mqtt": "^3.0.0",
     "object-assign-deep": "^0.4.0",
     "rimraf": "^3.0.2",
